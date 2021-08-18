@@ -1,3 +1,6 @@
+
 Hello Git Repository.
 
 this is my text file.
+Welcome to DevOps Training, We are going over Git Session
+
